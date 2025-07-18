@@ -18,7 +18,9 @@ Website/
 ├── index.html          # Main HTML file
 ├── styles.css          # All CSS styles (mobile-first)
 ├── script.js           # JavaScript functionality
-├── logo.svg            # Ward & Co. company logo
+├── noback.png          # Ward & Co. company logo (no background)
+├── Logo.PNG            # Previous logo (PNG format)
+├── logo.svg            # Previous logo (SVG format)
 └── README.md           # This file
 ```
 
